@@ -54,9 +54,9 @@ Micro USB Connector (VBUS / D+ / D-)
 ---
 
 ## Files Included
-- `Development_board_project_with_STM_components_and_Micro_USB.kicad_sch` – Schematic
-- `Development_board_project_with_STM_components_and_Micro_USB.kicad_pcb` – PCB Layout
-- `Gerber_File_Development_board_project_with_STM_components_and_Micro_USB.zip` – Gerber files
+- Development_board_project_with_STM_components_and_Micro_USB.kicad_sch – Schematic
+- Development_board_project_with_STM_components_and_Micro_USB.kicad_pcb – PCB Layout
+- Gerber_File_Development_board_project_with_STM_components_and_Micro_USB.zip – Gerber files
 
 ---
 
